@@ -5,4 +5,4 @@
 
 The Monster base class is extended to two monsters; Imp and Kobold.  
 Monsters battle via impleementing the Ability interface and its related classes MeleeAttack and RangedAttack.
-Mosters attack and sustain damage via the associated methods.
+Monsters attack and sustain damage via the associated methods.
